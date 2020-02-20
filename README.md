@@ -1,1 +1,3 @@
 # CodeSquid
+
+![87029311_3358068287542541_5377126684669509632_o](https://user-images.githubusercontent.com/48466830/74895228-776c9b80-53d4-11ea-8268-fbc1fad8970e.jpg)
