@@ -25,6 +25,8 @@ Method Dispatch: <font color="green">Static</font> or <font color="red">Dynamic<
 
 일정 크기 이상으로 증가하면 스토리지는 값을 힙에 할당하고 그 힙을 가르킨다.
 
+해당 스토리지는 스택에 존재한다.
+
 struct 내부에 class가 존재할 경우 rc를 사용한다.
 
 <br><br>
