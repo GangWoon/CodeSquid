@@ -9,7 +9,7 @@
 * 인스턴스 - 클래스를 토대로 만들어진 객체, 속성을 갖는다. 행동은 클래스에 있다.
 * 객체 - 실체, 관련된 것들의 모음.
 
-
+<br>
 
 ## 성능을 비교할 수 있는 3가지 기준
 
@@ -19,9 +19,7 @@ Reference Counting: <font color="green">Yes</font> or <font color="red">No</font
 
 Method Dispatch: <font color="green">Static</font> or <font color="red">Dynamic</font>
 
-
-
-## Value type
+<br>
 
 ### struct는 정말 reference counting을 사용하지 않는가?
 
@@ -29,19 +27,9 @@ Method Dispatch: <font color="green">Static</font> or <font color="red">Dynamic<
 
 struct 내부에 class가 존재할 경우 rc를 사용한다.
 
-
-
-
-
-
-
-
-
-
+<br><br>
 
 # Reference
-
----
 
 [스위프트 성능 이해하기](https://youtu.be/z1Gf6EosaUQ)
 
