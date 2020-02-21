@@ -8,3 +8,40 @@
 * 클래스 - 인스턴스를 만들기 위한 틀, 속성과 행동을 갖는다.
 * 인스턴스 - 클래스를 토대로 만들어진 객체, 속성을 갖는다. 행동은 클래스에 있다.
 * 객체 - 실체, 관련된 것들의 모음.
+
+
+
+## 성능을 비교할 수 있는 3가지 기준
+
+Memory Allocation: <font color="green">Stack</font> or <font color="red">Heap</font>
+
+Reference Counting: <font color="green">Yes</font> or <font color="red">No</font>
+
+Method Dispatch: <font color="green">Static</font> or <font color="red">Dynamic</font>
+
+
+
+## Value type
+
+### struct는 정말 reference counting을 사용하지 않는가?
+
+일정 크기 이상으로 증가하면 스토리지는 값을 힙에 할당하고 그 힙을 가르킨다.
+
+struct 내부에 class가 존재할 경우 rc를 사용한다.
+
+
+
+
+
+
+
+
+
+
+
+# Reference
+
+---
+
+[스위프트 성능 이해하기](https://youtu.be/z1Gf6EosaUQ)
+
